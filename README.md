@@ -1,5 +1,5 @@
 # Kali-Assistant
-Get help about execution of any application command!
+Get help about execution of any application command, and quick in app execution!
 
 ## How to Install:
 ### Step 1: Save the Core Application Code
